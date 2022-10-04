@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteRule ^(index|main)$ $1.php [NC,L]
+RewriteCond %{HTTPS} off 
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]

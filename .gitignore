@@ -1,0 +1,5 @@
+# ignore backups folder
+backups/
+
+# ignore includes/db_remote.php
+includes/db_remote.php

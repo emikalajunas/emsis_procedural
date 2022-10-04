@@ -1,0 +1,12 @@
+Last edited:
+
+EMSIS brandinfo
+
+HEX color: #0f25f2 of logo
+HEX color: #3295a8 of buttons on hover
+
+CMYK: 94%, 85%, 0%, 5%
+
+RGB: 15, 36, 242
+
+Font: SEGOE IU
