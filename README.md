@@ -1,1 +1,1 @@
-Hello. U can loggin in with u admin e admin@admin.lt p admin
+Hi. Welcome to read: user and password is included in my email
